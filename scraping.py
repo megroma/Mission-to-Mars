@@ -83,7 +83,7 @@ def featured_image(browser):
 
 #Mars Facts
 #Declare and define our function.
-def mars_facts(browser):
+def mars_facts():
     #Add try/except for error handling
     try:
         # use 'read_html" to scrape the facts table into a dataframe
